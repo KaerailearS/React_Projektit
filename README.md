@@ -1,4 +1,4 @@
-React projects worked on as a team effort between myself and @oskaritauru
+React projects worked on as a team effort between myself and <a href="https://github.com/oskaritauru">@oskaritauru</a>
 
 https://www.freecodecamp.org/news/react-projects-for-beginners-easy-ideas-with-code/
 
