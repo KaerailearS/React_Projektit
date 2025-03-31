@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header-heading{
+  margin-bottom: 20px;
+}
+.slides{
+  display: flex;
+}
+.prev, .next{
+  position: absolute;
+  top: 25%;
+}
+.prev{
+  left: 5%;
+}
+.next{
+  right: 5%;
+}
+.image{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

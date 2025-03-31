@@ -1,0 +1,36 @@
+body{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  background-color: pink;
+}
+.heading{
+  margin-bottom: 50px;
+}
+.main-content{
+  border: 2px dashed black;
+  max-width: 400px;
+  background-color: white;
+}
+.shopping-list{
+  justify-content: space-between;
+  list-style-type: none;
+  max-width: 400px;
+}
+.list-div{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.shopping-list-item{
+  margin-left: 20px;
+  
+}
+.remove-btn{
+  background-color: white;
+  border: none;
+  color: red;
+  font-weight: 700;
+  font-size: 1.8rem;
+  margin-right: 50px;
+}
