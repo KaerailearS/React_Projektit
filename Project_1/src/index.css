@@ -11,21 +11,36 @@ body {
 .header-heading{
   margin-bottom: 20px;
 }
-.slides{
-  display: flex;
-}
 .prev, .next{
   position: absolute;
-  top: 25%;
+  top: 23%;
 }
 .prev{
-  left: 5%;
+  left: 13%;
 }
 .next{
-  right: 5%;
+  right: 13%;
+}
+.prev-btn{
+  padding: 10px 15px;
+  border-radius: 50%;
+  font-size: 1.5rem;
+  color: white;
+  background-color: black;
+}
+.next-btn{
+  padding: 10px 15px;
+  border-radius: 50%;
+  font-size: 1.5rem;
+  color: white;
+  background-color: black;
 }
 .image{
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.large-image{
+  width: 75%;
+  max-height: 540px;
 }

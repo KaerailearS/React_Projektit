@@ -2,10 +2,10 @@ import { useState } from "react";
 // array with image sources
 const imageArray = [
   "/src/assets/manuli.png",
-  "/src/assets/kirahvi.png",
-  "/src/assets/koira.png",
-  "/src/assets/virtahepo.png",
-  "/src/assets/ankka.png"
+  "/src/assets/phoenix.png",
+  "/src/assets/komodo.png",
+  "/src/assets/dragon.png",
+  "/src/assets/lochness.png"
 ]
 // function for the main content(carousel)
 export default function Carousel(){
@@ -26,13 +26,13 @@ export default function Carousel(){
   return (
     <section className="carousel">
       <div className="prev">
-        <button className="prev-btn" onClick={prev}>-</button>
+        <button className="prev-btn" onClick={prev}>⬅</button>
       </div>
       <div className="next">
-        <button className="next-btn" onClick={next}>+</button>
+        <button className="next-btn" onClick={next}>⮕</button>
       </div>
       <div className="image">
-        <img src={imageArray[currentSlide]} alt="" />
+        <img className="large-image" src={imageArray[currentSlide]} alt="" />
       </div>
     </section>
   )
