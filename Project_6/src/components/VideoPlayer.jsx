@@ -3,6 +3,7 @@ export default function VideoPlayer({ videoURL, posterImage }) {
     <div className="video-player">
       <video
         controls
+        loop
         autoPlay
         muted
         preload="metadata"

@@ -14,7 +14,7 @@ const videos = {
 const videoTitles = Object.keys(videos);
 
 export default function App() {
-  const [currentVideo, setCurrentVideo] = useState(videos.cat);
+  const [currentVideo, setCurrentVideo] = useState(videos.spider);
 
   function onSelectVideo(video) {
     const videoURL = videos[video];
