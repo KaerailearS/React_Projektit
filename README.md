@@ -13,5 +13,9 @@ Projects list:
 <br>
 #4 - Dysfunctional, was skipped
 <br>
-#5 - GitHub user search - oskaritauru
+#5 - GitHub User Search - oskaritauru
+<br>
+#6 - Video Player - oskaritauru
+<br>
+#7 - BMI Calculator - Kaerailears
 <br>
