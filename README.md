@@ -9,9 +9,9 @@ Projects list:
 <br>
 #2 - FAQ Accordion - oskaritauru
 <br>
-#3 - Shopping List - KaerailearS
+#3 - <i><b>Dysfunctional, was skipped</b></i>
 <br>
-#4 - Dysfunctional, was skipped
+#4 - Shopping List - KaerailearS
 <br>
 #5 - GitHub User Search - oskaritauru
 <br>
